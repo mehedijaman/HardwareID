@@ -1,0 +1,24 @@
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\bin\Debug\HardwareID.exe
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\bin\Debug\HardwareID.pdb
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\obj\Debug\HardwareID.Form1.resources
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\obj\Debug\HardwareID.Properties.Resources.resources
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\obj\Debug\HardwareID.csproj.GenerateResource.Cache
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\obj\Debug\HardwareID.exe
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\obj\Debug\HardwareID.pdb
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\bin\Debug\HardwareID.exe.manifest
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\bin\Debug\HardwareID.application
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\obj\Debug\HardwareID.TrustInfo.xml
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\obj\Debug\HardwareID.exe.manifest
+C:\Users\SM Mehedi Jaman\Desktop\HardwareID\obj\Debug\HardwareID.application
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\obj\Debug\HardwareID.exe
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\obj\Debug\HardwareID.pdb
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\bin\Debug\HardwareID.exe.manifest
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\bin\Debug\HardwareID.application
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\bin\Debug\HardwareID.exe
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\bin\Debug\HardwareID.pdb
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\obj\Debug\HardwareID.Form1.resources
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\obj\Debug\HardwareID.Properties.Resources.resources
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\obj\Debug\HardwareID.csproj.GenerateResource.Cache
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\obj\Debug\HardwareID.TrustInfo.xml
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\obj\Debug\HardwareID.exe.manifest
+G:\Xampp\htdocs\vs_projects\trunk\HardwareID\obj\Debug\HardwareID.application
